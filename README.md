@@ -20,8 +20,8 @@
 ### 📸 System Preview
 
 <div align="center">
-  <img src="product_1.jpg" alt="Fire-CANON Robot" width="45%" />
-  <img src="product_2.jpg" alt="Fire-CANON Control System" width="45%" />
+  <!-- <img src="product_1.jpg" alt="Fire-CANON Robot" width="45%" /> -->
+  <img src="product_2.jpg" alt="Fire-CANON Control System" width="100%" />
 </div>
 
 *자동 화재 진압 로봇 - 열화상 센서 & 물분무 시스템*
